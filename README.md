@@ -6,9 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 The **main libraries** used in this project are:
 
-* styled-components for styling
-* react-router-dom for routing
-* framer-motion for animations
+* `styled-components` for styling
+* `react-router-dom` for routing
+* `framer-motion` for animations
 
 ## Run the project
 
